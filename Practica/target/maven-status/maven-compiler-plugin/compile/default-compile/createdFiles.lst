@@ -1,7 +1,12 @@
 com\mycompany\practica\Cola.class
-com\mycompany\practica\Practica.class
 com\mycompany\practica\ListaEnlazada.class
+EstructurasDeDatosDinamicas\NodoLista.class
+EstructurasDeDatosDinamicas\DefinirImplementar.class
 com\mycompany\practica\Nodo.class
+com\mycompany\practica\prueba.class
 com\mycompany\practica\datosEstrucImple.class
 com\mycompany\practica\ColaArray.class
+EstructurasDeDatosDinamicas\Nodo.class
+EstructurasDeDatosDinamicas\ListaEnlazada.class
 com\mycompany\practica\datosDinamicas.class
+EstructurasDeDatosDinamicas\TADimplementar.class
